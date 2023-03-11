@@ -1,7 +1,7 @@
 # Trabajo-prediccion-Visado
 
 Miembros del Grupo
-  - CLaudia Giraldo
+  - Claudia Giraldo
   - Sebastian Zuluaga
   
 Datos
